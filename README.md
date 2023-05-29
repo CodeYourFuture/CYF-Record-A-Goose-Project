@@ -35,7 +35,8 @@ Depends on [docker install](https://docs.docker.com/install/) and [docker-compos
 2. `docker-compose up`
 
 Or get a bash console where you can run `npm` cmds via the built container (ensure step 1 above is done)
-`docker-compose run --rm --service-ports --entrypoint="bash" goose`
+`docker-compose run --rm --service-ports -
+-entrypoint="bash" goose`
 
 Run the tests via docker
 `docker-compose run --rm --entrypoint="npm run test" goose`
