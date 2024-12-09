@@ -2,12 +2,10 @@
 
 ## Learning Objectives
 <!--{{<objectives>}}>-->
-
 - [ ] Use the automated testing tools WAVE, Accessibility Insights, and Lighthouse to identify common accessibility issues
 - [ ] Record accessibility issues in a structured format
 - [ ] Explain the impact of accessibility mistakes
 - [ ] Suggest practical technical fixes to identified problems
-
 <!--{{</objectives>}}>-->
 
 ## What to do
