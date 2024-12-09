@@ -1,5 +1,17 @@
 # Record a goose sighting
 
+## Learning Objectives
+<!--{{<objectives>}}>
+
+- [ ] Use the automated testing tools WAVE, Accessibility Insights, and Lighthouse to identify common accessibility issues
+- [ ] Record accessibility issues in a structured format
+- [ ] Explain the impact of accessibility mistakes
+- [ ] Suggest practical technical fixes to identified problems
+
+<!--{{</objectives>}}>-->
+
+## What to do
+
 [Go to the 'Record a goose sighting' exercise](https://record-a-goose.onrender.com)
 
 This is a fictional service, to help you record any sightings of geese (geese are awesome). It's using the [GOV.UK Design system](https://design-system.service.gov.uk/), which are WCAG 2.1 AA compliant, and benefits from hundreds of hours of work and testing. However, even if you're using a Design System, stuff can still go wrong...
@@ -11,7 +23,7 @@ The task is to find as many of the accessibility issues in this site as you can 
 
 There is a [worksheet](https://record-a-goose.onrender.comsteps/worksheet), and there is also a list of [answers](https://record-a-goose.onrender.com/steps/answers) - but give it the full 20 minutes before you look at the answers first, if you're working through this alone!
 
-If you are running this as a group workshop, there is an [answerless 'Record a goose sighting' exercise](https://record-a-goose.onrender.com), that you can use with attendees. This prevents them from finding answers before you're ready to go through them!
+If you are running this as a group workshop, there is an [answerless 'Record a goose sighting' exercise](https://record-a-goose.onrender.com), that you can use with attendees. This prevents you from finding answers before you're ready to go through them as a group!
 
 ## What testing tools to use
 I would recommend working through the site in the following order:
@@ -19,6 +31,7 @@ I would recommend working through the site in the following order:
 - Can you access everything by pressing the tab key?
 - Does WAVE show any errors, or highlight any issues with the HTML structure?
 - Does the colour contrast tab on [WAVE](http://wave.webaim.org/) throw up any errors?
+- Install and run [Accessibility Insights](https://accessibilityinsights.io/docs/web/overview/). What advice does it give you?
 
 Government Digital Services have recently published [how to conduct a basic accessibility audit](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one), which is worth a look at too.
 
