@@ -1,12 +1,12 @@
 # Record a goose sighting
 
 ## Learning Objectives
-<!--{{<objectives>}}>-->
+<!--{{<objectives>}}-->
 - [ ] Use the automated testing tools WAVE, Accessibility Insights, and Lighthouse to identify common accessibility issues
 - [ ] Record accessibility issues in a structured format
 - [ ] Explain the impact of accessibility mistakes
 - [ ] Suggest practical technical fixes to identified problems
-<!--{{</objectives>}}>-->
+<!--{{</objectives>}}-->
 
 ## What to do
 
